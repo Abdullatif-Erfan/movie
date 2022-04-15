@@ -21,6 +21,14 @@ npm install
 npm start or yarn start
 ```
 
+# Testing
+
+- Navigate to the client directory and run the following command:
+
+```
+npm run test
+```
+
 using concurrently plugin client and server will start working with a single command
 
 # API Endpoints
