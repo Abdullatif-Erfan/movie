@@ -40,5 +40,4 @@ POST  http://localhost:5000/movies/imdbID
 ```
 
 # Video 
-:-: | :-:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=r4N9Ybg_dDU)
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=r4N9Ybg_dDU)
