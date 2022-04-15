@@ -38,3 +38,7 @@ npm run test
 GET   http://localhost:5000/movies
 POST  http://localhost:5000/movies/imdbID
 ```
+
+# Video 
+:-: | :-:
+<video src='https://www.youtube.com/watch?v=r4N9Ybg_dDU' width=180/>
