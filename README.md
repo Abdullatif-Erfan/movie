@@ -42,7 +42,5 @@ POST  http://localhost:5000/movies/imdbID
 # Video 
 <!-- [![Demo CountPages alpha](https://akamdurnika.com/movie/screenshot.png)](https://www.youtube.com/watch?v=r4N9Ybg_dDU) -->
 
-
-![Output sample](https://www.youtube.com/watch?v=r4N9Ybg_dDU)
-
+[![How is it working ](https://akamdurnika.com/movie/screenshot.png)](https://www.youtube.com/watch?v=r4N9Ybg_dDU)
 
