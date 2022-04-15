@@ -1,0 +1,8 @@
+{
+    "mainURL": "https://www.omdbapi.com",
+    "apikey": "70c395f9",
+    "type": "movie",
+    "containTitleWord": "space",
+    "year": "2021",
+    "formt": "json"
+}

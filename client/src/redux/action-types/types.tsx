@@ -1,0 +1,5 @@
+export enum ActionType {
+  GET_MOVIES = "GET_MOVIES",
+  SEARCH_MOVIE = "SEARCH_MOVIE",
+  ERROR_MOVIES = "ERROR_MOVIES"
+}
