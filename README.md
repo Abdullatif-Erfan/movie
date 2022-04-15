@@ -41,11 +41,6 @@ POST  http://localhost:5000/movies/imdbID
 
 # Video 
 <!-- [![Demo CountPages alpha](https://akamdurnika.com/movie/screenshot.png)](https://www.youtube.com/watch?v=r4N9Ybg_dDU) -->
-
-https://www.youtube.com/watch?v=r4N9Ybg_dDU?width=200&height=200
-
-<!-- <p align="center">
-  <a href="https://www.youtube.com/watch?v=r4N9Ybg_dDU" target="_blank"><img src="https://akamdurnika.com/movie/screenshot.png"></a>
-</p> -->
+[<img src="https://www.youtube.com/watch?v=r4N9Ybg_dDU/<VIDEO ID>/https://akamdurnika.com/movie/screenshot.png">](https://www.youtube.com/watch?v=r4N9Ybg_dDU/<VIDEO ID>)
 
 
