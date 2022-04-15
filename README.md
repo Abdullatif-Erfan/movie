@@ -1,6 +1,7 @@
 # Setup
 
-- Download or Clone the project
+- Create a folder inside htdocs or any other server that you are using, ex: movie
+- Download or Clone the project inside movie folder
 - Navigate to the server directory throught CMD or Visual Studio code terminal
 - Run the following command to install dependencies:
 
