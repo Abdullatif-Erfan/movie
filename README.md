@@ -41,4 +41,4 @@ POST  http://localhost:5000/movies/imdbID
 
 # Video 
 :-: | :-:
-<video src='https://www.youtube.com/watch?v=r4N9Ybg_dDU' width=180/>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=r4N9Ybg_dDU)
